@@ -26,3 +26,4 @@ def predict(wine: Wine):
 
 
 # PETUSHARU
+# PETUSHARU 2
